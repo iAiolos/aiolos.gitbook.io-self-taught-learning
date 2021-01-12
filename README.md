@@ -1,3 +1,7 @@
+---
+description: About Self-Taught Learning
+---
+
 # Introduction
 
 人需要永远学习，永远需要教育。
@@ -6,17 +10,15 @@
 
 学习和教育是同义词，它首先指的是自我教育。
 
-这个概念还有很多同义词：self-learning, self-teaching, self-education, autodidacticism。
+这个概念还有很多同义词：self-learning, self-teaching, self-education, autodidacticism, 等等。
 
 对一个自我学习者或self-taught learner，他或她的整个生命过程，就是self-taught learning。
 
 学习过程，即生命体验过程，其中的一小部分可以被记录下来。
 
+Horizontal Rule
 
-
-\*
-
----
+\*\*\*
 
 
 
