@@ -8,7 +8,11 @@ I had ever listened to a lot of country music when I started liking the singer a
 
 Sometimes something simple can arouse emotional interest and sort of unsophisticatedly philosophical feeling since they demonstrate stories and rhythms straight.
 
-{% embed url="https://www.youtube.com/watch?v=7hx4gdlfamo" %}
+{% embed url="https://music.apple.com/cn/album/the-gambler/1435550033?i=1435550041" %}
+
+
+
+
 
 Here is its lyric, and I have divided it into several sections according to its music structure:
 
