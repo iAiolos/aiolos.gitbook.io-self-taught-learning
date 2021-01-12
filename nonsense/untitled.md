@@ -1,3 +1,7 @@
+---
+description: '2020-11-27'
+---
+
 # Gamblers In A Song
 
 The other day a friend recommended a song called "Easy" to me, which belongs to country music. I listened to it, and it sounded good, so I was trying to find myself more country music to listen to, then I found a song that is called "The Gamblers" and I love it.
