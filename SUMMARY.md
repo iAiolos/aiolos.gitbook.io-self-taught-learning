@@ -4,7 +4,7 @@
 
 ## Core
 
-* [Untitled](core/22222.md)
+* [认知科学的综述的综述](core/22222.md)
 
 ## Nonsense
 
