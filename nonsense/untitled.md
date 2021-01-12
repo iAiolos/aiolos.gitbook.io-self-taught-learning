@@ -10,9 +10,7 @@ Sometimes something simple can arouse emotional interest and sort of unsophistic
 
 {% embed url="https://www.youtube.com/watch?v=7hx4gdlfamo" %}
 
-
-
-In my this shit, I want to talk about the song of "The gamblers". Here is its lyric, and I have divided it into several sections according to its music structure:
+Here is its lyric, and I have divided it into several sections according to its music structure:
 
 
 
