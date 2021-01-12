@@ -10,6 +10,7 @@
 
 ## Nonsense
 
-* [儿童故事](nonsense/er-tong-gu-shi.md)
+* [儿童故事](nonsense/er-tong-gu-shi/README.md)
+  * [暗度陈仓](nonsense/er-tong-gu-shi/an-du-chen-cang.md)
 * [Gamblers In A Song](nonsense/untitled.md)
 
