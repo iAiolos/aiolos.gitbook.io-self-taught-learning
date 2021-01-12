@@ -1,4 +1,4 @@
 # Table of contents
 
-* [aiolos.gitbook.io-self-taught-learning](README.md)
+* [Initial page](README.md)
 
