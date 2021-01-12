@@ -8,7 +8,7 @@ I had ever listened to a lot of country music when I started liking the singer a
 
 Sometimes something simple can arouse emotional interest and sort of unsophisticatedly philosophical feeling since they demonstrate stories and rhythms straight.
 
-[https://y.qq.com/n/yqq/mv/v/c00165775vk.html](https://y.qq.com/n/yqq/mv/v/c00165775vk.html)
+[https://www.youtube.com/watch?v=7hx4gdlfamo](https://www.youtube.com/watch?v=7hx4gdlfamo)
 
 In my this shit, I want to talk about the song of "The gamblers". Here is its lyric, and I have divided it into several sections according to its music structure:
 
