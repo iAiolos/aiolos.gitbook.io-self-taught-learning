@@ -2,7 +2,7 @@
 description: social-emotional education
 ---
 
-# “社会-情绪”教育
+# “社会化-情绪”教育
 
 ​
 

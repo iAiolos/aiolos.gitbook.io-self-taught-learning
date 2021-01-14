@@ -27,5 +27,5 @@
 
 * [人类的城市化进程](ren-lei-de-cheng-shi-hua-jin-cheng/README.md)
   * [Course: The Past, Present and Future of Urban Life](ren-lei-de-cheng-shi-hua-jin-cheng/course-the-past-present-and-future-of-urban-life.md)
-* [“社会-情绪”教育](she-hui-qing-xu-jiao-yu.md)
+* [“社会化-情绪”教育](she-hui-qing-xu-jiao-yu.md)
 
