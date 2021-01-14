@@ -17,3 +17,8 @@
 
 * [Gamblers In A Song](nonsense/untitled.md)
 
+## Discipline
+
+* [新闻业与新闻学](discipline/xin-wen-ye-yu-xin-wen-xue/README.md)
+  * [Course: Activism and Citizen Journalism through Media\_edX](discipline/xin-wen-ye-yu-xin-wen-xue/course-activism-and-citizen-journalism-through-media_edx.md)
+
