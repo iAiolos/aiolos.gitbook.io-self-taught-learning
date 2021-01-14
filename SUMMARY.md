@@ -12,6 +12,7 @@
   * [暗度陈仓](core/er-tong-gu-shi/an-du-chen-cang.md)
 * [关于认知科学](core/ren-zhi-ke-xue.md)
 * [一种世界观的描述](core/yi-zhong-shi-jie-guan-de-miao-shu.md)
+* [非盈利组织的收入模式调研](core/fei-ying-li-zu-zhi-de-shou-ru-mo-shi-tiao-yan.md)
 
 ## Nonsense
 
@@ -26,4 +27,5 @@
 
 * [人类的城市化进程](ren-lei-de-cheng-shi-hua-jin-cheng/README.md)
   * [Course: The Past, Present and Future of Urban Life](ren-lei-de-cheng-shi-hua-jin-cheng/course-the-past-present-and-future-of-urban-life.md)
+* [社会-情绪教育](she-hui-qing-xu-jiao-yu.md)
 
