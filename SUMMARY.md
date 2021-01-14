@@ -22,3 +22,8 @@
 * [新闻业与新闻学](discipline/xin-wen-ye-yu-xin-wen-xue/README.md)
   * [Course: Activism and Citizen Journalism through Media\_edX](discipline/xin-wen-ye-yu-xin-wen-xue/course-activism-and-citizen-journalism-through-media_edx.md)
 
+---
+
+* [人类的城市化进程](ren-lei-de-cheng-shi-hua-jin-cheng/README.md)
+  * [Course: The Past, Present and Future of Urban Life](ren-lei-de-cheng-shi-hua-jin-cheng/course-the-past-present-and-future-of-urban-life.md)
+
