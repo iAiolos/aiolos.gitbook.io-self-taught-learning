@@ -1,10 +1,10 @@
 # Course: The Past, Present and Future of Urban Life
 
-​这个课程的大半部分是在别的软件操作，复制过来会损失格式和我的批注。所以这里指放一个链接。
 
-[笔记Course: The Past, Present and Future of Urban Life](https://app.yinxiang.com/shard/s27/nl/6744055/7b67e28c-8e13-40dc-abb9-a51a7861d024)
 
-5.2.5以后的内容转移到这里操作。
+Notes: [Course: The Past, Present and Future of Urban Life](https://app.yinxiang.com/shard/s27/nl/6744055/7b67e28c-8e13-40dc-abb9-a51a7861d024)
+
+
 
 ## Syllabus
 
