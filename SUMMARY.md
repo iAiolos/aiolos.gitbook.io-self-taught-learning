@@ -20,9 +20,9 @@
 
 ## Discipline
 
+* [“社会化-情绪”教育](discipline/she-hui-qing-xu-jiao-yu.md)
 * [新闻业与新闻学](discipline/xin-wen-ye-yu-xin-wen-xue/README.md)
   * [Course: Activism and Citizen Journalism through Media\_edX](discipline/xin-wen-ye-yu-xin-wen-xue/course-activism-and-citizen-journalism-through-media_edx.md)
-* [“社会化-情绪”教育](discipline/she-hui-qing-xu-jiao-yu.md)
 * [人类的城市化进程](discipline/ren-lei-de-cheng-shi-hua-jin-cheng/README.md)
   * [Course: The Past, Present and Future of Urban Life](discipline/ren-lei-de-cheng-shi-hua-jin-cheng/course-the-past-present-and-future-of-urban-life.md)
 
