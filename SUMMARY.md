@@ -21,7 +21,7 @@
 ## Discipline
 
 * [新闻业与新闻学](discipline/xin-wen-ye-yu-xin-wen-xue/README.md)
-  * [Course: Activism and Citizen Journalism through Media\_edX](discipline/xin-wen-ye-yu-xin-wen-xue/course-activism-and-citizen-journalism-through-media_edx.md)
+  * [Course: Activism and Citizen Journalism through Media](discipline/xin-wen-ye-yu-xin-wen-xue/course-activism-and-citizen-journalism-through-media_edx.md)
 * [Course: The Past, Present and Future of Urban Life](discipline/course-the-past-present-and-future-of-urban-life.md)
 * [“社会化-情绪”教育](discipline/she-hui-qing-xu-jiao-yu.md)
 
