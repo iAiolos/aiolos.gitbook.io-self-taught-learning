@@ -1,10 +1,6 @@
 # Course: The Past, Present and Future of Urban Life
 
-
-
 Notes: [Course: The Past, Present and Future of Urban Life](https://app.yinxiang.com/shard/s27/nl/6744055/7b67e28c-8e13-40dc-abb9-a51a7861d024)
-
-
 
 ## Syllabus
 
