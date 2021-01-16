@@ -1,8 +1,6 @@
 # Course: The Past, Present and Future of Urban Life
 
-## Notes
-
- [Course: The Past, Present and Future of Urban Life](https://app.yinxiang.com/shard/s27/nl/6744055/7b67e28c-8e13-40dc-abb9-a51a7861d024)
+## Notes 
 
 1. [Power and the City](https://app.yinxiang.com/shard/s27/nl/6744055/ccf2eac3-dddc-4421-8285-7ae889f3649f)
 2. [Trade and the City](https://app.yinxiang.com/shard/s27/nl/6744055/f643e9fb-0474-406f-b4e3-ecc3c9d09871)
@@ -10,7 +8,7 @@
 4. [The Consumer City](https://app.yinxiang.com/shard/s27/nl/6744055/7b67e28c-8e13-40dc-abb9-a51a7861d024)
 5. [Technology & the City](https://app.yinxiang.com/shard/s27/nl/6744055/6f8b490a-b275-4f12-8c99-be48c21f931d)
 
-## Course of edX
+## Course on edX
 
 ### Syllabus
 
