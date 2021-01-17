@@ -12,7 +12,11 @@
 >
 > You have to compensate for these voids and the ambience to allow something to happen.
 
+你必须创造能够“创造的的条件”。
 
+你必须填补受限的基础设施。
+
+你必须为平衡这些空白和氛围付出代价，以便让一些事发生。
 
 
 
