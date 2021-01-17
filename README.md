@@ -14,8 +14,6 @@ description: About Self-Taught Learning
 
 也就是说，这是一个自我教育的过程、创造过程，生命过程。
 
-
-
 ## 关于学习和教育
 
 人需要永远学习和教育。
