@@ -156,7 +156,9 @@ description: About Self-Taught Learning
 
 它不以分享为目的，它只是顺便可以分享。
 
+## 联系方式
 
+frank.yi@qq.com
 
 
 
