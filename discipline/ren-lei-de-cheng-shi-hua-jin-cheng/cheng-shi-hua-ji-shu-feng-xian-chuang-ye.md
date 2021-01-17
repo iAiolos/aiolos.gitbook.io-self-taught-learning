@@ -12,6 +12,8 @@
 >
 > You have to compensate for these voids and the ambience to allow something to happen.
 
+要成为发展中国家的创业者，你要做的不仅是开始你的冒险。
+
 你必须创造“能够创造的条件”。
 
 你必须填补受限的基础设施。
