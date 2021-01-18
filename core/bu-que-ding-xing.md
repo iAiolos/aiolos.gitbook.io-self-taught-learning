@@ -14,7 +14,7 @@
 
 [It arises in any number of fields, including insurance, philosophy, physics, statistics, economics, finance, psychology, sociology, engineering, metrology, meteorology, ecology and information science.](https://en.wikipedia.org/wiki/Uncertainty#Philosophy)
 
-与“不确定性”这一概念直接相关的领域有：保险业、哲学、物理学、统计学、经济学、金融、心理学、社会学、工程领域、计量学、气象学、生态学、信息科学。
+与“不确定性”这一概念直接相关、可提供感性经验的领域有：保险业、哲学、物理学、统计学、经济学、金融、心理学、社会学、工程领域、计量学、气象学、生态学、信息科学。
 
 所有这些领域里，我相对比较熟悉的只有信息科学，其核心之一是信息论，这是不够的。还有一个一级学科“情报学和图书馆学”应该包含进来。
 
