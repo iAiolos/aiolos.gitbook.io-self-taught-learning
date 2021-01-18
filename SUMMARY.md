@@ -5,6 +5,7 @@
 
 ## Core
 
+* [教育的三个三维模型](core/jiao-yu-de-san-ge-san-wei-mo-xing.md)
 * [不确定性](core/bu-que-ding-xing.md)
 * [西班牙语](core/xi-ban-ya-yu.md)
 * [气候类型跟人体体感的关系](core/qi-hou-lei-xing-gen-ren-ti-ti-gan-de-guan-xi.md)
