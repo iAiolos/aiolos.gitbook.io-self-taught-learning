@@ -4,6 +4,12 @@
 
 不确定性，是一个涉及面很广的概念。我暂时没有建立一个与生活相关的、完整的、简化的描述。
 
+人们对各种事情的理解，通常是基于朴素因果性（并不是真正的因果性），这是现代学校教育的不足，甚至是现代学校教育强化了的一种错误认知（与大量的排位行考试相关）。
+
+一个稍微升级的版本，大多数朴素因果性并不是因果性，而是相关性。
+
+一个进一步升级的版本，应该是理解不确定性。生活中的大部分实际问题，都与不确定相关。
+
 ## 线索
 
 [It arises in any number of fields, including insurance, philosophy, physics, statistics, economics, finance, psychology, sociology, engineering, metrology, meteorology, ecology and information science.](https://en.wikipedia.org/wiki/Uncertainty#Philosophy)
