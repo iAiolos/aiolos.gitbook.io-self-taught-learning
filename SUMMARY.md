@@ -5,6 +5,7 @@
 
 ## Core
 
+* [不确定性](core/bu-que-ding-xing.md)
 * [西班牙语](core/xi-ban-ya-yu.md)
 * [气候类型跟人体体感的关系](core/qi-hou-lei-xing-gen-ren-ti-ti-gan-de-guan-xi.md)
 * [中小企业线上架构](core/zhong-xiao-qi-ye-xian-shang-jia-gou-si-lu/README.md)
