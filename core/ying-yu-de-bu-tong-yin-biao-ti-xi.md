@@ -30,17 +30,19 @@
 
 二战后美国针对美式发音开发的音标体系。美国本土教材并不使用这个体系，美国人通常不认识。美国出版的国际教材有使用。中国台湾早期使用这个体系，中国大陆受台湾教材影响也有接触。
 
-## ADH\(The American Heritage Dictionary of the English Language\)和Merriam-Webster
+## AHD\(The American Heritage Dictionary of the English Language\)和Merriam-Webster
 
-ADH并没有众所周知的中文名，Merriam-Webster的中文名是韦氏音标。
+AHD并没有众所周知的中文名，Merriam-Webster的中文名是韦氏音标。
 
-这两个体系都是词典出版商自己的体系，在美国本土影响比较广泛，尤其是Merriam-Webster。在美国本土影响比较广泛的还有一种注音方式：**respelling**，这种方式相当于是用已经认识的简单的词的发音来表示不认识的词，适用于没学过任何音标体系的人。
+这两个体系都是词典出版商自己的体系，在美国本土影响比较广泛，尤其是Merriam-Webster。（在美国本土影响比较广泛的还有一种注音方式：**respelling**，这种方式相当于是用已经认识的简单的词的发音来表示不认识的词，适用于没学过任何音标体系的人。）
 
 这两个体系使用的符号比较接近。
 
-重要的区别是：ADH的重音符号在重音音节后面，这与多数音标体系不同。我们所熟悉的多数音标体系，重音符号在重音音节前面。
+重要的区别是：AHD的重音符号在重音音节后面，这与多数音标体系不同。我们所熟悉的多数音标体系，重音符号在重音音节前面。
 
-ADH在学术领域使用较多，我以前不了解这个体系，就不理解为什么有一种音标标注的重音位置跟其他音标体系不同。
+AHD在学术领域使用较多，我以前不了解这个体系，就不理解为什么有一种音标标注的重音位置跟其他音标体系不同。
+
+以下表格摘自：[https://en.wikipedia.org/wiki/Phonetic\_notation\_of\_the\_American\_Heritage\_Dictionary](https://en.wikipedia.org/wiki/Phonetic_notation_of_the_American_Heritage_Dictionary)
 
 | AHD | IPA | Description |
 | :--- | :--- | :--- |
@@ -48,7 +50,7 @@ ADH在学术领域使用较多，我以前不了解这个体系，就不理解�
 | ◌′ | ˌ◌ | Secondary stress |
 | - | . | Syllable division \(omitted after stressed syllables\) |
 
-### ADH的元音
+### AHD的元音
 
 In general, long vowels are marked with a [macron](https://en.wikipedia.org/wiki/Macron_%28diacritic%29), and short vowels with a [breve](https://en.wikipedia.org/wiki/Breve). A [circumflex](https://en.wikipedia.org/wiki/Circumflex) may also be used to indicate a pre-rhotic vowel. Usage of other symbols vary.
 
@@ -81,7 +83,7 @@ In general, long vowels are marked with a [macron](https://en.wikipedia.org/wiki
 | ü | y | French t**u**, German **ü**ber |
 | ◌n | [◌̃](https://en.wikipedia.org/wiki/Nasalization) | French bo**n** |
 
-### ADH的辅音
+### AHD的辅音
 
 | AHD | IPA | Example |
 | :--- | :--- | :--- |
