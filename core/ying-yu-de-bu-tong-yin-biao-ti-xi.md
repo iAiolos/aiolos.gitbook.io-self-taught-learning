@@ -119,7 +119,9 @@ In general, long vowels are marked with a [macron](https://en.wikipedia.org/wiki
 
 ### Merriam-Webster的发音指南
 
-见韦氏词典的文档：[https://www.merriam-webster.com/assets/mw/static/pdf/help/guide-to-pronunciation.pdf](https://www.merriam-webster.com/assets/mw/static/pdf/help/guide-to-pronunciation.pdf)
+见韦氏词典的文档：
+
+[https://www.merriam-webster.com/assets/mw/static/pdf/help/guide-to-pronunciation.pdf](https://www.merriam-webster.com/assets/mw/static/pdf/help/guide-to-pronunciation.pdf)
 
 
 
