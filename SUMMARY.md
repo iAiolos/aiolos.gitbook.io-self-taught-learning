@@ -5,6 +5,7 @@
 
 ## Core
 
+* [英语的不同音标体系](core/ying-yu-de-bu-tong-yin-biao-ti-xi.md)
 * [教育的三个三维模型](core/jiao-yu-de-san-ge-san-wei-mo-xing.md)
 * [不确定性](core/bu-que-ding-xing.md)
 * [西班牙语](core/xi-ban-ya-yu.md)
