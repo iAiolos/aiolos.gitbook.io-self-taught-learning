@@ -29,5 +29,6 @@
   * [城市化-技术-风险创业](discipline/ren-lei-de-cheng-shi-hua-jin-cheng/cheng-shi-hua-ji-shu-feng-xian-chuang-ye.md)
 * [新闻业与新闻学](discipline/xin-wen-ye-yu-xin-wen-xue/README.md)
   * [Course: Activism and Citizen Journalism through Media](discipline/xin-wen-ye-yu-xin-wen-xue/course-activism-and-citizen-journalism-through-media_edx.md)
+  * [通俗小报类新闻和花边新闻](discipline/xin-wen-ye-yu-xin-wen-xue/tong-su-xiao-bao-lei-xin-wen-he-hua-bian-xin-wen.md)
 * [“社会化-情绪”教育](discipline/she-hui-qing-xu-jiao-yu.md)
 
