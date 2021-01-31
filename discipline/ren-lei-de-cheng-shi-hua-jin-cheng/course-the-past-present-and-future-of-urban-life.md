@@ -7,7 +7,8 @@
 3. [City of Industry](https://app.yinxiang.com/shard/s27/nl/6744055/cb98166a-d337-4c28-9757-af9aa5dcf1cd)
 4. [The Consumer City](https://app.yinxiang.com/shard/s27/nl/6744055/7b67e28c-8e13-40dc-abb9-a51a7861d024)
 5. [Technology & the City](https://app.yinxiang.com/shard/s27/nl/6744055/6f8b490a-b275-4f12-8c99-be48c21f931d)​
-6. [Poverty & Opportunity](https://app.yinxiang.com/shard/s27/nl/6744055/356b2d4a-7505-4457-868c-e128b77b1a1f)
+6. [Poverty & Opportunity](https://app.yinxiang.com/shard/s27/nl/6744055/356b2d4a-7505-4457-868c-e128b77b1a1f)​
+7. [The Built City](https://app.yinxiang.com/shard/s27/nl/6744055/72ed0ac6-69a0-4031-bdb3-5eac575b0697)
 
 ## Course on edX
 
