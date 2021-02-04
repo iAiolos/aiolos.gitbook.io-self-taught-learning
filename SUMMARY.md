@@ -24,6 +24,8 @@
 
 ## Discipline
 
+* [非营利组织和项目](discipline/fei-ying-li-zu-zhi-he-xiang-mu/README.md)
+  * [Cours: Essentials of Program Strategy and Evaluation](discipline/fei-ying-li-zu-zhi-he-xiang-mu/cours-essentials-of-program-strategy-and-evaluation.md)
 * [人类的城市化进程](discipline/ren-lei-de-cheng-shi-hua-jin-cheng/README.md)
   * [Course: The Past, Present and Future of Urban Life](discipline/ren-lei-de-cheng-shi-hua-jin-cheng/course-the-past-present-and-future-of-urban-life.md)
   * [城市化-技术-风险创业](discipline/ren-lei-de-cheng-shi-hua-jin-cheng/cheng-shi-hua-ji-shu-feng-xian-chuang-ye.md)
