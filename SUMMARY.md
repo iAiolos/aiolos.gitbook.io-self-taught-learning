@@ -16,7 +16,6 @@
   * [暗度陈仓](core/er-tong-gu-shi/an-du-chen-cang.md)
 * [关于认知科学](core/ren-zhi-ke-xue.md)
 * [一种世界观的描述](core/yi-zhong-shi-jie-guan-de-miao-shu.md)
-* [非盈利组织的收入模式](core/fei-ying-li-zu-zhi-de-shou-ru-mo-shi-tiao-yan.md)
 
 ## Nonsense
 
