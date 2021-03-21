@@ -5,6 +5,7 @@
 
 ## Core
 
+* [个人和中小组织的IT解决方案](core/ge-ren-he-zhong-xiao-zu-zhi-de-it-jie-jue-fang-an.md)
 * [英语的不同音标体系](core/ying-yu-de-bu-tong-yin-biao-ti-xi.md)
 * [教育的三个三维模型](core/jiao-yu-de-san-ge-san-wei-mo-xing.md)
 * [不确定性](core/bu-que-ding-xing.md)
