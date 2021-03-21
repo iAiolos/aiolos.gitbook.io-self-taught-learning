@@ -5,14 +5,14 @@
 
 ## Core
 
-* [个人和中小组织的IT解决方案](core/ge-ren-he-zhong-xiao-zu-zhi-de-it-jie-jue-fang-an.md)
+* [能力模块：IT架构、财务架构](core/ge-ren-he-zhong-xiao-zu-zhi-de-it-jie-jue-fang-an.md)
+* [中小企业线上架构](core/zhong-xiao-qi-ye-xian-shang-jia-gou-si-lu/README.md)
+  * [静态站点生成器方案](core/zhong-xiao-qi-ye-xian-shang-jia-gou-si-lu/jing-tai-zhan-dian-sheng-cheng-qi-fang-an.md)
 * [英语的不同音标体系](core/ying-yu-de-bu-tong-yin-biao-ti-xi.md)
 * [教育的三个三维模型](core/jiao-yu-de-san-ge-san-wei-mo-xing.md)
 * [不确定性](core/bu-que-ding-xing.md)
 * [西班牙语](core/xi-ban-ya-yu.md)
 * [气候类型跟人体体感的关系](core/qi-hou-lei-xing-gen-ren-ti-ti-gan-de-guan-xi.md)
-* [中小企业线上架构](core/zhong-xiao-qi-ye-xian-shang-jia-gou-si-lu/README.md)
-  * [静态站点生成器方案](core/zhong-xiao-qi-ye-xian-shang-jia-gou-si-lu/jing-tai-zhan-dian-sheng-cheng-qi-fang-an.md)
 * [儿童故事](core/er-tong-gu-shi/README.md)
   * [暗度陈仓](core/er-tong-gu-shi/an-du-chen-cang.md)
 * [关于认知科学](core/ren-zhi-ke-xue.md)
