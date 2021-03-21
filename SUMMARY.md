@@ -5,7 +5,8 @@
 
 ## Core
 
-* [能力模块：IT架构、财务架构](core/ge-ren-he-zhong-xiao-zu-zhi-de-it-jie-jue-fang-an.md)
+* [能力模块：IT架构、财务架构](core/ge-ren-he-zhong-xiao-zu-zhi-de-it-jie-jue-fang-an/README.md)
+  * [个人IT架构的持续演化](core/ge-ren-he-zhong-xiao-zu-zhi-de-it-jie-jue-fang-an/ge-ren-it-jia-gou-de-chi-xu-yan-hua.md)
 * [中小企业线上架构](core/zhong-xiao-qi-ye-xian-shang-jia-gou-si-lu/README.md)
   * [静态站点生成器方案](core/zhong-xiao-qi-ye-xian-shang-jia-gou-si-lu/jing-tai-zhan-dian-sheng-cheng-qi-fang-an.md)
 * [英语的不同音标体系](core/ying-yu-de-bu-tong-yin-biao-ti-xi.md)
