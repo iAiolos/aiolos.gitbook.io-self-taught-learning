@@ -25,6 +25,7 @@
 
 ## Discipline
 
+* [伦理学](discipline/lun-li-xue.md)
 * [非营利组织和项目](discipline/fei-ying-li-zu-zhi-he-xiang-mu/README.md)
   * [Cours: Essentials of Program Strategy and Evaluation](discipline/fei-ying-li-zu-zhi-he-xiang-mu/cours-essentials-of-program-strategy-and-evaluation.md)
 * [人类的城市化进程](discipline/ren-lei-de-cheng-shi-hua-jin-cheng/README.md)
@@ -34,4 +35,8 @@
   * [Course: Activism and Citizen Journalism through Media](discipline/xin-wen-ye-yu-xin-wen-xue/course-activism-and-citizen-journalism-through-media_edx.md)
   * [通俗小报类新闻和花边新闻](discipline/xin-wen-ye-yu-xin-wen-xue/tong-su-xiao-bao-lei-xin-wen-he-hua-bian-xin-wen.md)
 * [“社会化-情绪”教育](discipline/she-hui-qing-xu-jiao-yu.md)
+
+---
+
+* [排版测试](pai-ban-ce-shi.md)
 
