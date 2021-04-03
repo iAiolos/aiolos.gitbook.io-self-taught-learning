@@ -4,17 +4,9 @@ description: 'Course: Moral Problems and the Good Life from MIT'
 
 # 伦理学
 
-## 笔记
+## 
 
-[INTRODUCTION](https://www.notion.so/INTRODUCTION-02d515d53b6e41c9bada27c7b0805630)
-
-[Lecture 1 --- What is Ethics](https://www.notion.so/Lecture-1-What-is-Ethics-e115ceddeb824393b7c5d0565c3f994c)
-
-[Lecture 2 --- Hedonism](https://www.notion.so/Lecture-2-Hedonism-2c2d02f8795a4bd8b32db593fa128752)
-
-[Lecture 3 --- Desire-Satisfaction](https://www.notion.so/Lecture-3-Desire-Satisfaction-daccd5ddfd4a4670b96d5c54dbe48a31)
-
-[Lecture 4 --- Objective Theories](https://www.notion.so/Lecture-4-Objective-Theories-a524f6c082ce446e9fd70b5b191bbee3)
+[Moral Problems and the Good Life](https://www.notion.so/202103-Moral-Problems-and-the-Good-Life-4ccac64acd8b414d927e395d9f8646c4)
 
 
 
