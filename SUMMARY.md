@@ -26,7 +26,8 @@
 
 ## Discipline
 
-* [伦理学](discipline/lun-li-xue.md)
+* [伦理学与生活](discipline/lun-li-xue-yu-sheng-huo/README.md)
+  * [Course: Moral Problems and the Good Life from MIT](discipline/lun-li-xue-yu-sheng-huo/lun-li-xue.md)
 * [非营利组织和项目](discipline/fei-ying-li-zu-zhi-he-xiang-mu/README.md)
   * [Cours: Essentials of Program Strategy and Evaluation](discipline/fei-ying-li-zu-zhi-he-xiang-mu/cours-essentials-of-program-strategy-and-evaluation.md)
 * [人类的城市化进程](discipline/ren-lei-de-cheng-shi-hua-jin-cheng/README.md)
