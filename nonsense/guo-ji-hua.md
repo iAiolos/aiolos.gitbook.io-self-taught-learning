@@ -1,7 +1,5 @@
 # 国际化
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/hwdYFAstGzmRevvtulmAHH0LVxroMXot7KUgx2AXSia1hOGkec02QiaZDUqBuIane6zaibeEfrIZUoliaLkXHicQfww/640?wx_fmt=jpeg)
-
 1
 
 最近去了一次深圳，这个城市让我眼花缭乱。
