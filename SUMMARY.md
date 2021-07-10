@@ -10,21 +10,32 @@
   * [个人IT架构的持续演化](core/ge-ren-he-zhong-xiao-zu-zhi-de-it-jie-jue-fang-an/ge-ren-it-jia-gou-de-chi-xu-yan-hua.md)
 * [中小企业线上架构](core/zhong-xiao-qi-ye-xian-shang-jia-gou-si-lu/README.md)
   * [静态站点生成器方案](core/zhong-xiao-qi-ye-xian-shang-jia-gou-si-lu/jing-tai-zhan-dian-sheng-cheng-qi-fang-an.md)
-* [英语的不同音标体系](core/ying-yu-de-bu-tong-yin-biao-ti-xi.md)
 * [教育的三个三维模型](core/jiao-yu-de-san-ge-san-wei-mo-xing.md)
 * [不确定性](core/bu-que-ding-xing.md)
-* [西班牙语](core/xi-ban-ya-yu.md)
 * [气候类型跟人体体感的关系](core/qi-hou-lei-xing-gen-ren-ti-ti-gan-de-guan-xi.md)
 * [儿童故事](core/er-tong-gu-shi/README.md)
   * [暗度陈仓](core/er-tong-gu-shi/an-du-chen-cang.md)
 * [关于认知科学](core/ren-zhi-ke-xue.md)
 * [一种世界观的描述](core/yi-zhong-shi-jie-guan-de-miao-shu.md)
 
+## 语言
+
+* [Fuck](yu-yan/untitled-7.md)
+* [语气、情态、调式](yu-yan/untitled-6.md)
+* [Two Mistakes In Studying English](yu-yan/untitled-5.md)
+* [英语语法直觉](yu-yan/untitled-4.md)
+* [英语的声音系统](yu-yan/untitled-3.md)
+* [适应各种英语口音的简化方案](yu-yan/untitled-2.md)
+* [知识结构及语言](yu-yan/untitled-1-1.md)
+* [英语的不同音标体系](yu-yan/ying-yu-de-bu-tong-yin-biao-ti-xi.md)
+* [西班牙语](yu-yan/xi-ban-ya-yu.md)
+* [听外语与听音乐](yu-yan/untitled-1.md)
+
 ## Nonsense
 
 * [Gamblers In A Song](nonsense/untitled.md)
 
-## Discipline
+## 科目笔记 <a id="discipline"></a>
 
 * [伦理学与生活](discipline/lun-li-xue-yu-sheng-huo/README.md)
   * [Course: Moral Problems and the Good Life from MIT](discipline/lun-li-xue-yu-sheng-huo/lun-li-xue.md)
@@ -41,4 +52,14 @@
 ---
 
 * [排版测试](pai-ban-ce-shi.md)
+* [鞋](untitled.md)
+* [Rehabilitation and Fitness and Health](untitled-1.md)
+* [音乐播放平台和其他](untitled-2.md)
+* [2020](untitled-3.md)
+* [It’s not the ball’s fault -- Maradona](untitled-4.md)
+
+## 音乐、绘画、电影/电视剧 <a id="movie-tv-show"></a>
+
+* [后翼弃兵与女王的棋盘](movie-tv-show/untitled.md)
+* [Untitled](movie-tv-show/untitled-1.md)
 
