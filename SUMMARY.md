@@ -18,6 +18,9 @@
 * [关于认知科学](core/ren-zhi-ke-xue.md)
 * [一种世界观的描述](core/yi-zhong-shi-jie-guan-de-miao-shu.md)
 * [信息传递的结构](core/untitled-1.md)
+* [觅食原理](core/untitled-2.md)
+* [居家收纳原理](core/untitled-3.md)
+* [品尝的科学](core/untitled-4.md)
 
 ## 语言
 
@@ -41,6 +44,7 @@
 * [在凌晨四点半炖一锅排骨汤](nonsense/untitled-4.md)
 * [张飞](nonsense/untitled-5.md)
 * [国际化](nonsense/guo-ji-hua.md)
+* [我爱你](nonsense/untitled-6.md)
 
 ## 科目笔记 <a id="discipline"></a>
 
@@ -65,12 +69,21 @@
 * [2020](untitled-3.md)
 * [It’s not the ball’s fault -- Maradona](untitled-4.md)
 
-## 音乐、绘画、电影/电视剧 <a id="movie-tv-show"></a>
+## 音乐、绘画、小说、电影 <a id="movie-tv-show"></a>
 
 * [《信条》TENET的结构和主题](movie-tv-show/untitled-2.md)
 * [后翼弃兵与女王的棋盘](movie-tv-show/untitled.md)
 * [关于《利剑出鞘》《好莱坞往事》等电影、小说和音乐](movie-tv-show/untitled-3.md)
 * [《海上钢琴师》最好的电影和最烂的电影](movie-tv-show/hai-shang-gang-qin-shi-zui-hao-de-dian-ying-he-zui-lan-de-dian-ying.md)
 * [画彩虹，再画个龙](movie-tv-show/untitled-6.md)
-* [Untitled](movie-tv-show/untitled-8.md)
+* [喜欢与尊重](movie-tv-show/untitled-8.md)
+* [音乐入门指南](movie-tv-show/untitled-1.md)
+* [花尔呼哨](movie-tv-show/untitled-4.md)
+* [音乐、绘画、家居、美食、陶瓷、诗、时尚和商业](movie-tv-show/untitled-5.md)
+* [诗与音乐](movie-tv-show/untitled-7.md)
+* [诗](movie-tv-show/untitled-9.md)
+* [歌词（诗）原理](movie-tv-show/untitled-10.md)
+* [《歌词原理》补充](movie-tv-show/untitled-11.md)
+* [欣赏绘画的关隘是观看方式](movie-tv-show/untitled-12.md)
+* [孤独的放火者](movie-tv-show/untitled-13.md)
 
