@@ -5,6 +5,7 @@
 
 ## Core
 
+* [鞋](core/untitled-5.md)
 * [数学可以分为哪些大的板块？](core/untitled.md)
 * [能力模块：IT架构、财务架构](core/ge-ren-he-zhong-xiao-zu-zhi-de-it-jie-jue-fang-an/README.md)
   * [个人IT架构的持续演化](core/ge-ren-he-zhong-xiao-zu-zhi-de-it-jie-jue-fang-an/ge-ren-it-jia-gou-de-chi-xu-yan-hua.md)
@@ -37,6 +38,10 @@
 
 ## Nonsense
 
+* [Rehabilitation and Fitness and Health](nonsense/untitled-1-1.md)
+* [音乐播放平台和其他](nonsense/untitled-2-1.md)
+* [It’s not the ball’s fault -- Maradona](nonsense/untitled-4-1.md)
+* [2020](nonsense/untitled-3-1.md)
 * [Gamblers In A Song](nonsense/untitled.md)
 * [演员自我修养](nonsense/untitled-1.md)
 * [家猫的攻击性行为](nonsense/untitled-2.md)
@@ -59,15 +64,6 @@
   * [Course: Activism and Citizen Journalism through Media](discipline/xin-wen-ye-yu-xin-wen-xue/course-activism-and-citizen-journalism-through-media_edx.md)
   * [通俗小报类新闻和花边新闻](discipline/xin-wen-ye-yu-xin-wen-xue/tong-su-xiao-bao-lei-xin-wen-he-hua-bian-xin-wen.md)
 * [“社会化-情绪”教育](discipline/she-hui-qing-xu-jiao-yu.md)
-
----
-
-* [排版测试](pai-ban-ce-shi.md)
-* [鞋](untitled.md)
-* [Rehabilitation and Fitness and Health](untitled-1.md)
-* [音乐播放平台和其他](untitled-2.md)
-* [2020](untitled-3.md)
-* [It’s not the ball’s fault -- Maradona](untitled-4.md)
 
 ## 音乐、绘画、小说、电影 <a id="movie-tv-show"></a>
 
