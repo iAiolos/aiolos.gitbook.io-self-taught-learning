@@ -82,4 +82,5 @@
 * [《歌词原理》补充](movie-tv-show/untitled-11.md)
 * [欣赏绘画的关隘是观看方式](movie-tv-show/untitled-12.md)
 * [孤独的放火者](movie-tv-show/untitled-13.md)
+* [以前的文章](movie-tv-show/yi-qian-de-wen-zhang.md)
 
