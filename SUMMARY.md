@@ -86,3 +86,7 @@
 * [孤独的放火者](movie-tv-show/untitled-13.md)
 * [以前的文章](movie-tv-show/yi-qian-de-wen-zhang.md)
 
+---
+
+* [Short stories I have read](short-stories-i-have-read.md)
+
