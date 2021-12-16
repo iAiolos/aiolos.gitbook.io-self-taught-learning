@@ -39,6 +39,7 @@
 
 ## Nonsense
 
+* [At forty, I had no doubts](nonsense/at-forty-i-had-no-doubts.md)
 * [Crow](nonsense/crow.md)
 * [Rehabilitation and Fitness and Health](nonsense/untitled-1-1.md)
 * [音乐播放平台和其他](nonsense/untitled-2-1.md)
@@ -53,7 +54,7 @@
 * [国际化](nonsense/guo-ji-hua.md)
 * [我爱你](nonsense/untitled-6.md)
 
-## 科目笔记 <a id="discipline"></a>
+## 科目笔记 <a href="#discipline" id="discipline"></a>
 
 * [伦理学与生活](discipline/lun-li-xue-yu-sheng-huo/README.md)
   * [Course: Moral Problems and the Good Life from MIT](discipline/lun-li-xue-yu-sheng-huo/lun-li-xue.md)
@@ -63,11 +64,11 @@
   * [Course: The Past, Present and Future of Urban Life](discipline/ren-lei-de-cheng-shi-hua-jin-cheng/course-the-past-present-and-future-of-urban-life.md)
   * [城市化-技术-风险创业](discipline/ren-lei-de-cheng-shi-hua-jin-cheng/cheng-shi-hua-ji-shu-feng-xian-chuang-ye.md)
 * [新闻业与新闻学](discipline/xin-wen-ye-yu-xin-wen-xue/README.md)
-  * [Course: Activism and Citizen Journalism through Media](discipline/xin-wen-ye-yu-xin-wen-xue/course-activism-and-citizen-journalism-through-media_edx.md)
+  * [Course: Activism and Citizen Journalism through Media](discipline/xin-wen-ye-yu-xin-wen-xue/course-activism-and-citizen-journalism-through-media\_edx.md)
   * [通俗小报类新闻和花边新闻](discipline/xin-wen-ye-yu-xin-wen-xue/tong-su-xiao-bao-lei-xin-wen-he-hua-bian-xin-wen.md)
 * [“社会化-情绪”教育](discipline/she-hui-qing-xu-jiao-yu.md)
 
-## 音乐、绘画、小说、电影 <a id="movie-tv-show"></a>
+## 音乐、绘画、小说、电影 <a href="#movie-tv-show" id="movie-tv-show"></a>
 
 * [《信条》TENET的结构和主题](movie-tv-show/untitled-2.md)
 * [后翼弃兵与女王的棋盘](movie-tv-show/untitled.md)
@@ -86,7 +87,6 @@
 * [孤独的放火者](movie-tv-show/untitled-13.md)
 * [以前的文章](movie-tv-show/yi-qian-de-wen-zhang.md)
 
----
+***
 
 * [Short stories I have read](short-stories-i-have-read.md)
-
