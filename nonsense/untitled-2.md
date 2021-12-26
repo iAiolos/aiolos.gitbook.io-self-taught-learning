@@ -1,6 +1,6 @@
 # 家猫的攻击性行为
 
-1  
+1\
 
 
 我很喜欢猫，但谁不是呢。与多数云玩家不同，我从不打算、不希望、不愿意养猫。因为我很熟悉猫，也很熟悉自己。
@@ -81,13 +81,12 @@
 
 这和对付熊孩子的原理一样。一个小孩如果在家里乱搞，就让他去搞个几项体育运动。比如踢球，尤其是假期，每天30分钟高强度对抗，完了再计时400米跑个两三轮，每天都在体能极限附近徘徊。每天必须去，风雨无阻。然后他在家里就会更有可能老老实实趴着。
 
-然而，这只是一个极端简化的方案。城市家猫的生存处境，它们自身的整体的幸福，以及由于猫的数量过多导致的生态压力，不是我考虑得着的事情。这也是我从不打算、不希望、不愿意养猫的原因。  
+然而，这只是一个极端简化的方案。城市家猫的生存处境，它们自身的整体的幸福，以及由于猫的数量过多导致的生态压力，不是我考虑得着的事情。这也是我从不打算、不希望、不愿意养猫的原因。\
 
 
-参考源：  
+参考源：\
 
 
 1. 书：The Domestic Cat: The Biology of its Behaviour, Third Edition.
 2. 文章：How to Stop Aggression in Kittens,原网址：https://www.thesprucepets.com/cat-play-aggression-553957
-3. 文章：How to Stop Kittens From Scratching and Biting，原网址：https://www.thesprucepets.com/control-kitten-scratching-biting-554830 
-
+3. 文章：How to Stop Kittens From Scratching and Biting，原网址：https://www.thesprucepets.com/control-kitten-scratching-biting-554830\

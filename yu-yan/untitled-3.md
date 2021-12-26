@@ -4,13 +4,13 @@
 
 这个系列，之前还有两篇，链接如下：
 
-《[听外语与听音乐](http://mp.weixin.qq.com/s?__biz=MjM5NzE3MTc4Mg==&mid=2651278889&idx=1&sn=898a2d484c57add18c1d77cfbbd1651f&chksm=bd2de9008a5a601677bac67a91625f72c6d3d401ec9e99dd94b9402970430efd115f6ba9d0b3&scene=21#wechat_redirect)》  
+《[听外语与听音乐](http://mp.weixin.qq.com/s?\_\_biz=MjM5NzE3MTc4Mg==\&mid=2651278889\&idx=1\&sn=898a2d484c57add18c1d77cfbbd1651f\&chksm=bd2de9008a5a601677bac67a91625f72c6d3d401ec9e99dd94b9402970430efd115f6ba9d0b3\&scene=21#wechat\_redirect)》\
 
 
-《[适应各种英语口音的简化方案](http://mp.weixin.qq.com/s?__biz=MjM5NzE3MTc4Mg==&mid=2651278907&idx=1&sn=4d887b793106f1396430cba98b7fa376&chksm=bd2de9128a5a60040099a39fa084baf0c9123db56167a89d320bb5640695469fb8b2e578cc03&scene=21#wechat_redirect)》  
+《[适应各种英语口音的简化方案](http://mp.weixin.qq.com/s?\_\_biz=MjM5NzE3MTc4Mg==\&mid=2651278907\&idx=1\&sn=4d887b793106f1396430cba98b7fa376\&chksm=bd2de9128a5a60040099a39fa084baf0c9123db56167a89d320bb5640695469fb8b2e578cc03\&scene=21#wechat\_redirect)》\
 
 
-尤其是第一个，应该作为本文的先导。  
+尤其是第一个，应该作为本文的先导。\
 
 
 我在这里关注的问题，还是针对有读写能力而没有听说能力的人。
@@ -46,9 +46,9 @@
 **1. melody**语调（或旋律）
 
 * **intonation**语调
-*     volume音节之间音量大小的对比
-*     length音节之间时间长短的对比
-*     pitch音节之间音调高低的对比
+* &#x20;   volume音节之间音量大小的对比
+* &#x20;   length音节之间时间长短的对比
+* &#x20;   pitch音节之间音调高低的对比
 * **rhythm**节奏
 
 **2. liaisons**连读
@@ -60,7 +60,7 @@
 
 **4. voice quality**音质
 
-前三个部分的重要性程度为：melody&gt;liaisons&gt;pronunciation。前两部分由于极度重要，所以多分了两层和一层。
+前三个部分的重要性程度为：melody>liaisons>pronunciation。前两部分由于极度重要，所以多分了两层和一层。
 
 “voice quality音质”，重要性最低，可以忽略。其中有两个因素，第一是鼻音尽量少（没有n的时候气流不要走鼻腔），第二是整体低沉，包括音调低和气流浑厚。从动物界到人界，低沉的声音都更有权威，或更有吸引力。这两个因素是一体的。
 
@@ -76,7 +76,7 @@
 
 在两个元音相连（双元音在汉语同样常见，例如，韵母an（安）），汉语普通话通常是作为一个音节整体发出，不体现渐变过程（占1拍），而英语中是作为两个音节发出，有一个渐变过程（如果是一个句子中的高音部分，占2拍）。例如，在“Ann saw a  cat”这样一个句子中，作为人名的Ann通常是这个句子的高音部分，发音会倾向于“a  an”，延续两拍，并体现出——从梅花音a过渡到加上鼻音n——的渐变过程（更重要的是音高pitch的变化过程，后面不再强调）。汉语的很多方言也有这个现象，普通话是作了简化。
 
-而作为定冠词的an，通常都是一个句子的低音部分，半拍都占不到，几乎不会发（安），顶多有个中央元音e\(额\)并和前一个辅音结合，n和后面的元音结合。例如，ate an orange，发音eite norinj。（输入法受限，打不出发音符号，但应该能说明意思了。）
+而作为定冠词的an，通常都是一个句子的低音部分，半拍都占不到，几乎不会发（安），顶多有个中央元音e(额)并和前一个辅音结合，n和后面的元音结合。例如，ate an orange，发音eite norinj。（输入法受限，打不出发音符号，但应该能说明意思了。）
 
 音节渐变过程，这个区别，有些情况会显得特别明显。一个很典型的例子是单词downtown，习惯汉语普通话的人通常把own作为一个音节发，实际的发音方式是“ao w n”，即至少一个双元音发满+一个辅音的唇形，然后加鼻音n（口腔形状不变，气流从口腔出转换为从鼻腔出），这样一个连续的渐变过程。
 
@@ -90,15 +90,15 @@ The cats're eating an orange.
 
 The cats'll eat an orange.
 
-The cats'd eat an orange.\(would eat\)
+The cats'd eat an orange.(would eat)
 
-The cats'd've eaten an orange.\(would have eat\) 
+The cats'd've eaten an orange.(would have eat)&#x20;
 
-The cats've eaten an orange.\(have eaten\)
+The cats've eaten an orange.(have eaten)
 
-The cats'd eaten an orange.\(had eaten\)
+The cats'd eaten an orange.(had eaten)
 
-这些句子只是最常用的时态和语态，写出来区别很明显，但读出来会差不多。省略、弱读、连读不是原因，而是结果。原因是，作为主语的名词cat和作为宾语的名词orange是整个句子的高音部分\(重读\)，单独各占1拍，中间的动词部分不管有多长总共只占1拍。这就为什么，“rhythm节奏”是后面那一切的源头，“melody语调”是后面那一切的源头。
+这些句子只是最常用的时态和语态，写出来区别很明显，但读出来会差不多。省略、弱读、连读不是原因，而是结果。原因是，作为主语的名词cat和作为宾语的名词orange是整个句子的高音部分(重读)，单独各占1拍，中间的动词部分不管有多长总共只占1拍。这就为什么，“rhythm节奏”是后面那一切的源头，“melody语调”是后面那一切的源头。
 
 5
 
@@ -122,4 +122,3 @@ The cats'd eaten an orange.\(had eaten\)
 “compound noun”复合名词，例如，credit card信用卡，名词+名词，高音在第一个词的第一个音节（重音）。但是有些看上是形容词+名词，但由于常年使用形成习惯，在母语者的头脑中已经变成单一图像，不再视作形容词+名词结构（形容词+名词结构重读后一个词），我把这种算进“compound noun复合名词”，例如，blue jeans牛仔裤，goldfish金鱼，the White House白宫，重读前一个词。作为对比，与blue jeans看上去同样结构的blue pants，并没有这种待遇，属于普通的形容词+名词结构，重读后一个词。
 
 所有这些单条规则没有意义，因为它只是结果，所有这类规则的原因都在“melody语调”这个部分。那不是规则，而是人的天性，人自然会那么说话，就像鸟自然会飞，蜘蛛自然会织网。
-
