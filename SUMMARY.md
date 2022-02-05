@@ -41,6 +41,7 @@
 ## Nonsense
 
 * [写诗](nonsense/xie-shi.md)
+* [诗的极简教程](nonsense/shi-de-ji-jian-jiao-cheng.md)
 * [At forty, I had no doubts](nonsense/at-forty-i-had-no-doubts.md)
 * [Crow](nonsense/crow.md)
 * [Rehabilitation and Fitness and Health](nonsense/untitled-1-1.md)
