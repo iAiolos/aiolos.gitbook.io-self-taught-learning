@@ -73,6 +73,7 @@
 
 ## 音乐、绘画、小说、电影 <a href="#movie-tv-show" id="movie-tv-show"></a>
 
+* [科幻超级极简史](movie-tv-show/ke-huan-chao-ji-ji-jian-shi.md)
 * [《信条》TENET的结构和主题](movie-tv-show/untitled-2.md)
 * [后翼弃兵与女王的棋盘](movie-tv-show/untitled.md)
 * [关于《利剑出鞘》《好莱坞往事》等电影、小说和音乐](movie-tv-show/untitled-3.md)
